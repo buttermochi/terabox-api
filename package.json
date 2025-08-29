@@ -1,5 +1,5 @@
 {
-    "name": "terabox-api",
+    "name": "@buttermochi/terabox-api",
     "name_ext": "TeraBox API",
     "version": "2.5.0",
     "main": "api.js",
