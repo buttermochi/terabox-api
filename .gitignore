@@ -8,3 +8,4 @@ testapp*
 *.txt
 .vscode
 *.patch
+html/

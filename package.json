@@ -5,13 +5,13 @@
     "main": "api.js",
     "type": "module",
     "scripts": {
-        "html": "python .github/jsdoc.py",
+        "docs": "jsdoc -c jsdoc.json",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "terabox"
     ],
-    "author": "Seiya Dev.",
+    "author": "buttermochi",
     "license": "MIT",
     "description": "NodeJS tool for interacting with the TeraBox cloud service without the need to use the website or app ☁️",
     "homepage": "https://github.com/seiya-npm/terabox-api#readme",
